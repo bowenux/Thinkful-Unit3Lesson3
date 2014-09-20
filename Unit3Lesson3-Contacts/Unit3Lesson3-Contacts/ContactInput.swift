@@ -19,7 +19,7 @@ class ContactInput: UIViewController, UITextFieldDelegate {
      //Properties
     var name = ""
     var phoneNumber = ""
-    var delegate: dateUpdated?
+    var delegate: dataUpdated?
     
     
     
